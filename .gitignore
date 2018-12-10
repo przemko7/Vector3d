@@ -1,0 +1,21 @@
+﻿################################################################################
+# Ten plik .gitignore został utworzony automatycznie przez Microsoft(R) Visual Studio.
+################################################################################
+
+/.vs/CK_Praca_domowa_Vector3d/v15/Browse.VC.opendb
+/x64/Debug/CK_Praca_domowa_Vector3d.pdb
+/x64/Debug/CK_Praca_domowa_Vector3d.ilk
+/x64/Debug/CK_Praca_domowa_Vector3d.exe
+/CK_Praca_domowa_Vector3d/x64/Debug/Vector3d.obj
+/CK_Praca_domowa_Vector3d/x64/Debug/vc141.pdb
+/CK_Praca_domowa_Vector3d/x64/Debug/vc141.idb
+/CK_Praca_domowa_Vector3d/x64/Debug/Main.obj
+/CK_Praca_domowa_Vector3d/x64/Debug/CK_Praca_domowa_Vector3d.log
+/CK_Praca_domowa_Vector3d/x64/Debug/CK_Praca.A0A26F7F.tlog/link.write.1.tlog
+/CK_Praca_domowa_Vector3d/x64/Debug/CK_Praca.A0A26F7F.tlog/link.read.1.tlog
+/CK_Praca_domowa_Vector3d/x64/Debug/CK_Praca.A0A26F7F.tlog/link.command.1.tlog
+/CK_Praca_domowa_Vector3d/x64/Debug/CK_Praca.A0A26F7F.tlog/CL.write.1.tlog
+/CK_Praca_domowa_Vector3d/x64/Debug/CK_Praca.A0A26F7F.tlog/CL.read.1.tlog
+/CK_Praca_domowa_Vector3d/x64/Debug/CK_Praca.A0A26F7F.tlog/CL.command.1.tlog
+/CK_Praca_domowa_Vector3d/x64/Debug/CK_Praca.A0A26F7F.tlog/CK_Praca_domowa_Vector3d.lastbuildstate
+/.vs/CK_Praca_domowa_Vector3d/v15/ipch/AutoPCH/a4ace2e7e9d8db72/VECTOR3D.ipch
