@@ -406,3 +406,8 @@ void Vector3d::VectorProduct(vector<double>& vec1, vector<double>& vec2)
 	this->SetVector3d(a, b, c);
 }
 
+void Vector3d::Write()
+{
+	printf("%.2f %.2f %.2f \n", this->x_, this->y_, this->z_);
+}
+

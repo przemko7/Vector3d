@@ -44,6 +44,8 @@ class Vector3d {
 		void VectorProduct(Vector3d &A, Vector3d &B);
 		void VectorProduct(vector<double> &vec1, vector<double> &vec2);
 
+		void Write();
+
 	private:
 		double x_;
 		double y_;
